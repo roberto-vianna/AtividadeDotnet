@@ -1,0 +1,14 @@
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\bin\Debug\net8.0\AtividadeDotnet.exe
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\bin\Debug\net8.0\AtividadeDotnet.deps.json
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\bin\Debug\net8.0\AtividadeDotnet.runtimeconfig.json
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\bin\Debug\net8.0\AtividadeDotnet.dll
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\bin\Debug\net8.0\AtividadeDotnet.pdb
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\AtividadeDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\AtividadeDotnet.AssemblyInfoInputs.cache
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\AtividadeDotnet.AssemblyInfo.cs
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\AtividadeDotnet.csproj.CoreCompileInputs.cache
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\AtividadeDotnet.dll
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\refint\AtividadeDotnet.dll
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\AtividadeDotnet.pdb
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\AtividadeDotnet.genruntimeconfig.cache
+C:\Projetos_Pessoais\SENAI\AtividadeDotnet\obj\Debug\net8.0\ref\AtividadeDotnet.dll
